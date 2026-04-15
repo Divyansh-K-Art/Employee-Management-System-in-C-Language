@@ -25,4 +25,4 @@ A robust command-line application built in C to manage employee records efficien
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone 
+   https://github.com/Divyansh-K-Art/Employee-Management-System-in-C-Language.git
